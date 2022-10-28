@@ -1,0 +1,40 @@
+*{color:black;
+margin-left: 10px;
+margin-right:10px;
+}
+
+.title{
+    font-family:  Helvetica, Arial,sans-serif;
+    font-size: 40px;
+    text-align: center;
+
+}
+img{
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:150px;
+    margin-bottom:50px;
+    height:300px;
+    width:auto;
+}
+.text{
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align:justify;
+    text-justify:inter-word;
+}
+h2.text{
+
+    color:rgb(18, 18, 110);
+    font-size: 32px;
+}
+.highlight{font-size:18px;
+color:rgb(79, 26, 129);
+font-weight:bold;
+}
+
+
+
